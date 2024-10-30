@@ -1,0 +1,2 @@
+etudiant1   10
+clear
